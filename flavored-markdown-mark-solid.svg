@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="markdown-mark.svg">
+   sodipodi:docname="flavored-markdown-mark-solid.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -40,7 +40,7 @@
      inkscape:window-width="1680"
      inkscape:window-height="987"
      id="namedview8"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="false"
      inkscape:snap-page="false"
@@ -48,9 +48,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="2"
-     inkscape:cx="30.365695"
-     inkscape:cy="72.000531"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="104.30971"
+     inkscape:cy="100.32178"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -71,10 +71,10 @@
      id="path3025" />
   <path
      style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="m 15,10 c -2.856486,0 -5,2.143514 -5,5 l 0,22 c 0,-2.85649 2.143514,-5 5,-5 l 178,0 c 2.85649,0 5,2.14351 5,5 l 0,-22 c 0,-2.856486 -2.14351,-5 -5,-5 z"
+     d="m 15,10 c -2.856486,0 -5,2.143514 -5,5 l 0,17 c 62.666667,0 188,0 188,0 l 0,-17 c 0,-2.856486 -2.14351,-5 -5,-5 z"
      id="rect4"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sscsscsss" />
+     sodipodi:nodetypes="ssccsss" />
   <path
      d="M 30,128 V 60 H 50 L 70,85 90,60 h 20 v 68 H 90 V 89 L 70,114 50,89 v 39 z m 125,0 -30,-33 h 20 V 60 h 20 v 35 h 20 z"
      id="path6"
